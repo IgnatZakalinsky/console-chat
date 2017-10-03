@@ -1,4 +1,4 @@
-package rpg2;
+package chat;
 
 import java.io.*;
 import java.net.InetAddress;
